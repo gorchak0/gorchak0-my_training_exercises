@@ -29,3 +29,5 @@ func readInput() string {
 	text, _ := reader.ReadString('\n') // Ждет ввода данных в формате строки
 	return text
 }
+
+//git remote add origin https://github.com/gorchak0/my_training_exercises.git
